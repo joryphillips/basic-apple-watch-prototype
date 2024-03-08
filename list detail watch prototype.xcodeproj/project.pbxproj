@@ -9,24 +9,18 @@
 /* Begin PBXBuildFile section */
 		80ADCC022B9B8931005BC2CC /* Activities.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADCBF92B9B8931005BC2CC /* Activities.swift */; };
 		80ADCC032B9B8931005BC2CC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 80ADCBFA2B9B8931005BC2CC /* Assets.xcassets */; };
-		80ADCC042B9B8931005BC2CC /* Detail.png in Resources */ = {isa = PBXBuildFile; fileRef = 80ADCBFB2B9B8931005BC2CC /* Detail.png */; };
 		80ADCC052B9B8931005BC2CC /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADCBFC2B9B8931005BC2CC /* DetailView.swift */; };
 		80ADCC062B9B8931005BC2CC /* list_detail_watch_prototypeApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADCBFD2B9B8931005BC2CC /* list_detail_watch_prototypeApp.swift */; };
-		80ADCC072B9B8931005BC2CC /* List.png in Resources */ = {isa = PBXBuildFile; fileRef = 80ADCBFE2B9B8931005BC2CC /* List.png */; };
 		80ADCC082B9B8931005BC2CC /* ListView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 80ADCBFF2B9B8931005BC2CC /* ListView.swift */; };
-		80ADCC092B9B8931005BC2CC /* Model.png in Resources */ = {isa = PBXBuildFile; fileRef = 80ADCC002B9B8931005BC2CC /* Model.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		802884832B97CD0400655A73 /* list detail watch prototype.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "list detail watch prototype.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		80ADCBF92B9B8931005BC2CC /* Activities.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Activities.swift; sourceTree = "<group>"; };
 		80ADCBFA2B9B8931005BC2CC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		80ADCBFB2B9B8931005BC2CC /* Detail.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Detail.png; sourceTree = "<group>"; };
 		80ADCBFC2B9B8931005BC2CC /* DetailView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
 		80ADCBFD2B9B8931005BC2CC /* list_detail_watch_prototypeApp.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = list_detail_watch_prototypeApp.swift; sourceTree = "<group>"; };
-		80ADCBFE2B9B8931005BC2CC /* List.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = List.png; sourceTree = "<group>"; };
 		80ADCBFF2B9B8931005BC2CC /* ListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
-		80ADCC002B9B8931005BC2CC /* Model.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Model.png; sourceTree = "<group>"; };
 		80ADCC0A2B9B8D5A005BC2CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -71,12 +65,9 @@
 				80ADCBF82B9B8931005BC2CC /* Preview Content */,
 				80ADCBF92B9B8931005BC2CC /* Activities.swift */,
 				80ADCBFA2B9B8931005BC2CC /* Assets.xcassets */,
-				80ADCBFB2B9B8931005BC2CC /* Detail.png */,
 				80ADCBFC2B9B8931005BC2CC /* DetailView.swift */,
 				80ADCBFD2B9B8931005BC2CC /* list_detail_watch_prototypeApp.swift */,
-				80ADCBFE2B9B8931005BC2CC /* List.png */,
 				80ADCBFF2B9B8931005BC2CC /* ListView.swift */,
-				80ADCC002B9B8931005BC2CC /* Model.png */,
 			);
 			path = "list detail prototype Watch App";
 			sourceTree = "<group>";
@@ -139,9 +130,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				80ADCC072B9B8931005BC2CC /* List.png in Resources */,
-				80ADCC092B9B8931005BC2CC /* Model.png in Resources */,
-				80ADCC042B9B8931005BC2CC /* Detail.png in Resources */,
 				80ADCC032B9B8931005BC2CC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

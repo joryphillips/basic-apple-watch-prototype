@@ -1,6 +1,6 @@
 //
-//  sorted_watch_prototypeApp.swift
-//  sorted watch prototype Watch App
+//  list_detail_watch_prototypeApp.swift
+//  prototype Watch App
 //
 //  Created by Jory Phillips on 3/5/24.
 //

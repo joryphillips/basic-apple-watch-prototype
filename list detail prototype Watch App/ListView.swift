@@ -1,6 +1,6 @@
 //
 //  ContentView.swift
-//  sorted watch prototype Watch App
+//  prototype Watch App
 //
 //  Created by Jory Phillips on 3/5/24.
 //
