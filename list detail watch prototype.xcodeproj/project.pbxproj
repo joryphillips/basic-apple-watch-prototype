@@ -27,6 +27,7 @@
 		80ADCBFE2B9B8931005BC2CC /* List.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = List.png; sourceTree = "<group>"; };
 		80ADCBFF2B9B8931005BC2CC /* ListView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ListView.swift; sourceTree = "<group>"; };
 		80ADCC002B9B8931005BC2CC /* Model.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Model.png; sourceTree = "<group>"; };
+		80ADCC0A2B9B8D5A005BC2CC /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -43,6 +44,7 @@
 		8028847A2B97CD0400655A73 = {
 			isa = PBXGroup;
 			children = (
+				80ADCC0A2B9B8D5A005BC2CC /* README.md */,
 				80ADCC012B9B8931005BC2CC /* list detail prototype Watch App */,
 				802884842B97CD0400655A73 /* Products */,
 			);
